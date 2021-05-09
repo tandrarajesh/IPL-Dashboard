@@ -8,6 +8,7 @@ public class IplDashboardApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IplDashboardApplication.class, args);
+		System.out.println("main class");
 	}
 
 }
